@@ -9,4 +9,4 @@ comment
 const myName = 'Kevin';
 const favFood = 'likes garlic bread';
 
-console.log(myName,favFood);
+console.log(myName, favFood);
