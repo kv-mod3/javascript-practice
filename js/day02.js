@@ -1,16 +1,3 @@
-// This is a single-line comment
-
-/*
-This is a
-multi-line
-comment
-*/
-
-const myName = 'Kevin';
-const favFood = 'likes garlic bread';
-
-console.log(myName, favFood);
-
 // Day 2 Take-home
 const superC = 'Supercalifragilisticexpialidocious';
 document.getElementById("numDemo").innerHTML = superC.length;
